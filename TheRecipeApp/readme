@@ -1,0 +1,37 @@
+🍽️ Recipe App
+
+
+📖 Overview
+The Recipe App is a simple web application that allows users to search for recipes by dish name. It fetches data from the TheMealDB API and displays the recipe details to the user.
+
+✨ Features
+
+🔍 User-friendly interface with a search bar to input dish names.
+
+📋 Fetches and displays recipe data from TheMealDB API.
+
+📱 Responsive design for optimal viewing on various devices.
+
+🛠️ Technologies Used
+
+
+HTML: For the structure of the web application.
+CSS: For styling the application.
+JavaScript: For handling user interactions and fetching data from the API.
+
+
+🚀 Getting Started
+Clone the repository to your local machine.
+Open the index.html file in your browser to run the app.
+
+
+📦 Installation
+No additional installation is required. Just open the index.html file in your favorite browser.
+
+
+
+
+📝 License
+This project is licensed under the MIT License made by supriya.
+
+Feel free to customize the emojis and content as per your preference! 😊
