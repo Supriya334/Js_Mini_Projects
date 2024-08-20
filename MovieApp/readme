@@ -1,0 +1,18 @@
+# 🎬 Movie App
+
+Discover movies and TV shows with this app! 🍿
+
+## 🌟 Features
+
+- 🔍 **Movie Search**: Search for movies and TV shows by title.
+- 🎥 **Movie Details**: View information about the cast, release date, and plot.
+- ⭐ **Ratings**: Check out movie ratings and reviews.
+
+## 🛠️ Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript, React
+- **API**: OMDB API
+
+---
+
+Made with ❤️ by **Supriya**

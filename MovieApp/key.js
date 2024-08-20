@@ -1,1 +1,2 @@
-key=" http://www.omdbapi.com/?i=tt3896198&apikey=3a308ed0";
+//Enter the API key recieved on your email here
+key = "12345a6b";

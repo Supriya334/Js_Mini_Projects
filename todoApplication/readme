@@ -1,0 +1,18 @@
+# ✅ Todo Application
+
+A simple and efficient todo list app. 📝
+
+## 🌟 Features
+
+- ➕ **Add Tasks**: Add new tasks to your todo list.
+- ✔️ **Mark as Complete**: Mark tasks as completed.
+- ❌ **Delete Tasks**: Remove tasks from the list.
+
+## 🛠️ Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript, React
+- **State Management**: Redux
+
+---
+
+Made with ❤️ by **Supriya**
