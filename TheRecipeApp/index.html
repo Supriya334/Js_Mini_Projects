@@ -1,32 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Recipe App</title>
-</head>
-<body>
-     <h2 style="text-align: center;margin-top: 
-     3%;color: aliceblue; text-decoration: underline;">The Online Recipe Book </h2>
-   <span>
-    <img style="height: 180px;margin-left: 15%
-    ;margin-top: 4%;" src="https://media.giphy.com/media/hHZfOv3tpyItG/giphy.gif" alt="">
-</span>
-<div class="container">
-    <div class="search-container">
-        <input type="text" placeholder="type a dish name here" id="user-inp">
-
-     
-
-<button id="search-btn">Search </button>
-
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Recipe App</title>
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h2 style="text-align: center;color: aliceblue;text-decoration: underline;">The Online Recipe App</h2>
+    <div class="container">
+      <div class="search-container">
+        <input
+          type="text"
+          placeholder="Enter A Dish Name Here.."
+          id="user-inp"
+        />
+        <button id="search-btn">Search</button>
+      </div>
+      <div id="result"></div>
+      
+    
     </div>
 
-    <div id="result"></div>
-</div>
+    <footer style="background-color: #f83264; padding: 20px; text-align: center; border-top: 4px solid #ddd;margin-top: 40%;">
+        <p style="color: #ddd;">&copy; 2024 Recipe Online. All rights reserved. ||  Made with ❤️ by Supriya</p>
 
-
-</body>
-<script src="script.js"></script>
+        <p style="color: #ddd;">Follow us on: 
+            <a href="#" target="_blank" style="text-decoration: none; color: #f7eded;">Facebook</a> | 
+            <a href="#" target="_blank" style="text-decoration: none; color: #f4ebeb;">Instagram</a> | 
+            <a href="#" target="_blank" style="text-decoration: none; color: #ebe4e4;">Twitter</a>
+        </p>
+    </footer>
+    <!-- Script -->
+    <script src="script.js"></script>
+  </body>
 </html>
