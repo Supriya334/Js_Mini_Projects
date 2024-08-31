@@ -11,7 +11,7 @@ valueDisplays.forEach((valueDisplay)=>{
     let counter =setInterval(() => {
         
         startValue+=1;
-        valueDisplay.textContent=startValue;
+        valueDisplay.textContent=startValue;   
         if(startValue==endValue){
             clearInterval(counter)
         }
