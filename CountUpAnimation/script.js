@@ -6,7 +6,7 @@ valueDisplays.forEach((valueDisplay)=>{
     let endValue=parseInt(valueDisplay.getAttribute("data-val"));
 
     // console.log(endValue)
-
+    
     let duration =Math.floor(interval/endValue);
     let counter =setInterval(() => {
         
