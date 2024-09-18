@@ -7,7 +7,7 @@ searchBtn.addEventListener("click", () => {
 
     console.log(finalURL);      
   
-    fetch(finalURL)
+    fetch(finalURL)    
         .then((response) => response.json())   
         .then((data) => {
             console.log(data[0]);
