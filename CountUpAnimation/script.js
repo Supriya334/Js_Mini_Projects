@@ -7,7 +7,7 @@ valueDisplays.forEach((valueDisplay)=>{
 
     // console.log(endValue)
     
-    let duration =Math.floor(interval/endValue);
+    let duration =Math.floor(interval/endValue);  
     let counter =setInterval(() => {
         
         startValue+=1;
