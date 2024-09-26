@@ -10,7 +10,7 @@ let products = {
         productName: "Beige Short Skirt",
         category: "Bottomwear",
         price: "49",     
-        image: "short-skirt.jpg",
+        image: "short-skirt.jpg",   
       },
       {
         productName: "Sporty SmartWatch",
