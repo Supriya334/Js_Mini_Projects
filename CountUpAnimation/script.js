@@ -9,7 +9,7 @@ valueDisplays.forEach((valueDisplay)=>{
     
     let duration =Math.floor(interval/endValue);  
     let counter =setInterval(() => {
-        
+         
         startValue+=1;
         valueDisplay.textContent=startValue;   
         if(startValue==endValue){
